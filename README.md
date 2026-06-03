@@ -14,7 +14,7 @@ A Home Assistant Add-on that provides self-hosted Nest thermostat control via th
 
 1. Click the button below to add this repository to your Home Assistant instance:
 
-   [![Add Repository](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fcodykociemba%2FNoLongerEvil-HomeAssistant)
+   [![Add Repository](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Ftehdango%2FNoLongerEvil-HomeAssistant)
 
 2. Find **NoLongerEvil HomeAssistant** in the Add-on store and click **Install**
 
