@@ -1,4 +1,4 @@
 [submodule "nolongerevil/server"]
 	path = nolongerevil/server
-	url = https://github.com/codykociemba/NoLongerEvil-SelfHosted.git
+	url = https://github.com/tehdango/NoLongerEvil-SelfHosted.git
 	branch = main
