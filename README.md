@@ -1,8 +1,8 @@
 # NoLongerEvil Home Assistant Add-on
 
-[![Build Status](https://github.com/codykociemba/NoLongerEvil-HomeAssistant/actions/workflows/build.yaml/badge.svg)](https://github.com/codykociemba/NoLongerEvil-HomeAssistant/actions/workflows/build.yaml)
+[![Build Status](https://github.com/tehdango/NoLongerEvil-HomeAssistant/actions/workflows/build.yaml/badge.svg)](https://github.com/tehdango/NoLongerEvil-HomeAssistant/actions/workflows/build.yaml)
 [![License](https://img.shields.io/github/license/codykociemba/NoLongerEvil-HomeAssistant)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/codykociemba/NoLongerEvil-HomeAssistant)](https://github.com/codykociemba/NoLongerEvil-HomeAssistant/releases/latest)
+[![Release](https://img.shields.io/github/v/release/codykociemba/NoLongerEvil-HomeAssistant)](https://github.com/tehdango/NoLongerEvil-HomeAssistant/releases/latest)
 [![Home Assistant Add-on](https://img.shields.io/badge/Home%20Assistant-Add--on-blue.svg)](https://www.home-assistant.io/addons/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.gg/hackhouse)
 
@@ -32,7 +32,7 @@ A Home Assistant Add-on that provides self-hosted Nest thermostat control via th
 
 3. Add this repository URL:
    ```
-   https://github.com/codykociemba/NoLongerEvil-HomeAssistant
+   https://github.com/tehdango/NoLongerEvil-HomeAssistant
    ```
 
 4. Click **Add** and close the dialog
@@ -138,7 +138,7 @@ If pairing is enabled:
 ## Community
 
 - [HackHouse Discord](https://discord.gg/hackhouse) - Join `#nle-home-assistant` channel
-- [GitHub Issues](https://github.com/codykociemba/NoLongerEvil-HomeAssistant/issues) - Bug reports and feature requests
+- [GitHub Issues](https://github.com/tehdango/NoLongerEvil-HomeAssistant/issues) - Bug reports and feature requests
 
 ## Video Tutorial
 
